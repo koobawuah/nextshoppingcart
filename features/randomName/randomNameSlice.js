@@ -20,3 +20,7 @@ export const randomNameSlice = createSlice({
 
 export const { updateName } = randomNameSlice.actions
 export default randomNameSlice.reducer
+
+
+//Add cart slice 
+//add cart functions to reducer property
